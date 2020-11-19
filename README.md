@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="HUSKI3's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HUSKI3&show_icons=true&hide_border=true" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HUSKI3&count_private=true&show_icons=true&hide_border=true" /><img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSKI3&layout=compact&hide_border=true " />
 
 [website]: http://azaytsev.tech/
 [twitter]: https://twitter.com/IgnisPy
