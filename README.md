@@ -1,5 +1,9 @@
 ### Hi there, I'm Artur - aka HUSKI3 👋
 
+[![Website](https://img.shields.io/website?label=fellowtenno.ga&style=for-the-badge&url=https%3A%2F%2Ffellowtenno.ga)][website]
+[![Website](https://img.shields.io/website?label=wyvernapp.xyz&style=for-the-badge&url=https%3A%2F%2Fwww.wyvernapp.xyz)][website]
+[![Website](https://img.shields.io/website?label=azaytsev.tech&style=for-the-badge&url=https%3A%2F%2Fazaytsev.tech)][website]
+
 ## I'm a Student and a Developer!
 - 🔭 I’m currently working on IXOS
 - 🌱 I’m currently learning everything new!
