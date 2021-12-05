@@ -1,6 +1,5 @@
 ### Hi there, I'm Linkus - aka HUSKI3 👋
 
-[![Website](https://img.shields.io/website?label=fellowtenno.ga&style=for-the-badge&url=https%3A%2F%2Ffellowtenno.ga)][website]
 [![Website2](https://img.shields.io/website?label=wyvernapp.xyz&style=for-the-badge&url=http%3A%2F%2Fwyvernapp.xyz)][website2]
 [![Website3](https://img.shields.io/website?label=azaytsev.tech&style=for-the-badge&url=http%3A%2F%2Fazaytsev.tech)][website3]
 
