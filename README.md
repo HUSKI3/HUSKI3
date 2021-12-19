@@ -1,13 +1,9 @@
 ### Hi there, I'm Linkus - aka HUSKI3 👋
 
-[![Website2](https://img.shields.io/website?label=wyvernapp.xyz&style=for-the-badge&url=http%3A%2F%2Fwyvernapp.xyz)][website2]
-[![Website3](https://img.shields.io/website?label=azaytsev.tech&style=for-the-badge&url=http%3A%2F%2Fazaytsev.tech)][website3]
-
 ## I'm a Student and a Developer!
-- 🔭 I’m currently working on IXOS
+- 🔭 I’m currently working on TecTone OS
 - 🌱 I’m currently learning everything new!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Try to contribute more to IXOS
 - ⚡ Fun fact: I love to draw 
 
 ### Connect with me:
@@ -38,11 +34,6 @@
 
 ---
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HUSKI3&count_private=true&show_icons=true&hide_border=true" /><img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSKI3&layout=compact&hide_border=true " />
-
-[website]: http://fellowtenno.ga
-[website2]: http://wyvernapp.xyz
-[website3]: http://azaytsev.tech/
 [twitter]: https://twitter.com/IgnisPy
 [youtube]: https://www.youtube.com/c/HuskieLunar
 [instagram]: https://instagram.com/HUSKI3
