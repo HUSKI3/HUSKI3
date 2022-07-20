@@ -5,17 +5,7 @@
 - 🌱 I’m currently learning everything new!
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to draw 
-
-### Connect with me:
-
-[<img align="left" alt="HUSKI3" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="HUSKI3 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="HUSKI3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HUSKI3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HUSKI3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
+---
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -33,8 +23,3 @@
 <br />
 
 ---
-
-[twitter]: https://twitter.com/IgnisPy
-[youtube]: https://www.youtube.com/c/HuskieLunar
-[instagram]: https://instagram.com/HUSKI3
-[linkedin]: https://www.linkedin.com/in/artur-zaytsev/
