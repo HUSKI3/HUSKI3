@@ -1,7 +1,7 @@
 ### Hi there, I'm Linkus - aka HUSKI3 👋
 
-## I'm a Student and a Developer!
-- 🔭 I’m currently working on NoPHP
+## I'm a Backend and ISR Developer!
+- 🔭 I’m currently working on GhostNet
 - 🌱 I’m currently learning everything new!
 - 👯 I’m looking to collaborate with other creators
 - ⚡ Fun fact: I love to draw 
